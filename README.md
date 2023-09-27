@@ -4,11 +4,11 @@
 I created this personal website as a platform to showcase my skills and accomplishments as a web developer. It serves as a portfolio and a creative outlet where I can experiment with HTML, CSS, and JavaScript.
 
 ## Features
-- **Portfolio**: The website includes a portfolio section where I display my projects. Each project has its own page with a description, screenshots, and links to the live project or its source code.
+- Portfolio: The website includes a portfolio section where I display my projects. Each project has its own page with a description, screenshots, and links to the live project or its source code.
 
-- ** interactive links**: Visitors can easily get in touch with me through interactive links. I value feedback, collaborations, and networking opportunities, so I've made it simple for anyone to reach out.
+- Interactive links: Visitors can easily get in touch with me through interactive links. I value feedback, collaborations, and networking opportunities, so I've made it simple for anyone to reach out.
 
-- **Responsive Design**: The website is designed to be responsive, ensuring a seamless experience for users on various devices, including desktops, tablets, and mobile phones.
+- Responsive Design: The website is designed to be responsive, ensuring a seamless experience for users on various devices, including desktops, tablets, and mobile phones.
 
 ## Contributing
 
