@@ -18,6 +18,11 @@ to discuss what you would like to change.
 ## Running the Project
 To run this project locally or on your own server, follow the link https://fedemurru.github.io :
 
+Or just Clone the Repository: Start by cloning this repository to your local machine using Git.
+use: git clone https://github.com/fedemurru/fedemurru.github.io.git
+then Navigate to the Project Directory: Use the cd command to enter the project directory,
+and open the project in your preferred code editor. 
+
 ## Dependencies
 This project mainly relies on the following technologies and resources:
 
