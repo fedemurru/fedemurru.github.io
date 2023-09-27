@@ -16,7 +16,7 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 ## Running the Project
-To run this project locally or on your own server, follow the link :
+To run this project locally or on your own server, follow the link https://fedemurru.github.io :
 
 ## Dependencies
 This project mainly relies on the following technologies and resources:
